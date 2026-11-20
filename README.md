@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Kasia 👋
 
-<!--
-**katemam/katemam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build websites, CRM systems and AI tools at [Lore Studio](https://lorestudio.ch) in Zurich.
 
-Here are some ideas to get you started:
+### What I build
+- **Custom CRM systems and business workflows**: lead management, follow-ups and AI assistants, built around how each business actually works
+- **Interactive configurators** that let customers explore products and options directly on a website
+- **AI agents**, such as a visibility agent that monitors how a website shows up in search engines and AI answers, with automated reports
+- **AI-generated visuals and videos** for brands, without a photo or video shoot
+- **Multilingual websites, online stores and brand experiences** in Next.js and TypeScript
+- **Automations and RAG setups** with n8n, Make and Zapier, and AI that answers questions from a company's own documents
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+`TypeScript` `JavaScript` `Next.js` `React` `HTML/CSS` `PostgreSQL` `Supabase` `OpenAI API` `Anthropic API` `RAG / embeddings` `n8n` `Make` `Zapier` `Claude Code` `Python` `Git`
+
+
+### A note on my repositories
+Most of my work is client code, so it stays private. Happy to walk you through a project on a call.
+
+📫 mamajkatarzyna@gmail.com · [lorestudio.ch](https://lorestudio.ch)
